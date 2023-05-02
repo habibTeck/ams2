@@ -1,0 +1,4 @@
+
+"add_new_address":" إضافة  عنوان جديد",
+"get_current_location":"جلب عنوانك الحالي",
+"default":"",
