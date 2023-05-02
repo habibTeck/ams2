@@ -9,7 +9,7 @@ images
 
 column1                    |  column2 
 :-------------------------:|:-------------------------:
-<img width="293" alt="Screen Shot 2023-05-02 at 11 51 12 PM" src="https://user-images.githubusercontent.com/102364205/235785293-a438b7eb-103b-45ca-bc19-2073fbf67b10.png">|<img width="293" alt="Screen Shot 2023-05-02 at 11 49 46 PM" src="https://user-images.githubusercontent.com/102364205/235785322-0b0b86ba-1a5a-4dc3-96ac-11935ece81b7.png">
+<img width="293" alt="Screen Shot 2023-05-02 at 11 49 46 PM" src="https://user-images.githubusercontent.com/102364205/235785322-0b0b86ba-1a5a-4dc3-96ac-11935ece81b7.png">|<img width="293" alt="Screen Shot 2023-05-02 at 11 51 12 PM" src="https://user-images.githubusercontent.com/102364205/235785293-a438b7eb-103b-45ca-bc19-2073fbf67b10.png">
 
 
 # admin app
