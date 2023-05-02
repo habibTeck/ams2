@@ -1,7 +1,7 @@
 #E-commerce System for AMS
 
 E-commerce system for AMS (Abdualziz Mohammed Saif Compney) 
-which Iam currently working on using Flutter + Laravel
+which Iam currently working on using Flutter + Laravel(as backend)
 
 
 images
